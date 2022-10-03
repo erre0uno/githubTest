@@ -1,3 +1,7 @@
 function saludar(){
-    alert( "bienvenido a l test de git !!")
+    alert( "bienvenido al test de git !!")
+}
+
+function adios(){
+    alert("Nos vemos !! ")
 }
